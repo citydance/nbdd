@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+  font-size: calc(1em + 1vh + 1vw);
+  color: #bae;
+  background: #212;
+}
+
+figure a {
+  color: #212;
+  background: #bae;
+  padding: 1ex;
+  display: table;
+}
+
+::selection {
+  color: gainsboro;
+  background: #808;
+}
